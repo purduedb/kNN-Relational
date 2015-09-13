@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="exec/kNNJoinWithHybrid.java|driver/RunkNNJoinWithHybrid.java|optimizer/CostEstimator.java|optimizer/TestCost.java|optimizer/VirtualGrid.java|exec/PLevelJoin.java|exec/PLevelSelect.java|exec/QLevelJoin.java|exec/QLevelSelect.java|driver/AugmentSpatialAttributes.java|driver/EstimateExperiments.java|driver/kNNJoinPLevel.java|driver/kNNJoinQLevel.java|driver/kNNSelectPLevel.java|driver/kNNSelectQLevel.java|driver/kNNSelectQLevelOLD.java|driver/RunkNNJoinWithPredicateLevel.java|driver/RunkNNJoinWithQuery13Level.java|driver/RunkNNJoinWithQuery21Level.java|driver/RunkNNSelectWithRelational.java|driver/Tester.java|driver/Visualizer.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
